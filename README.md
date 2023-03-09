@@ -1,2 +1,2 @@
-My first readme\n
-Readme.md file just updated\n
+My first readme
+Readme.md just updated
